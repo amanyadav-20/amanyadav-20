@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanyadav-20" alt="amanyadav-20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aman_yadavansi_" target="blank"><img src="https://img.shields.io/twitter/follow/aman_yadavansi_?logo=twitter&style=for-the-badge" alt="aman_yadavansi_" /></a> </p>
-
 - 🔭 I’m currently working on **Sofware Development(frontend development)**
 
 - 🌱 I’m currently learning **Web Development-React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
@@ -21,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aman_yadavansi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_yadavansi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-yadav20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-yadav20" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amn_ydv_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amn_ydv_20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amanyadav_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanyadav_20" height="30" width="40" /></a>
