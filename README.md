@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman_yadavansi_" target="blank"><img src="https://img.shields.io/twitter/follow/aman_yadavansi_?logo=twitter&style=for-the-badge" alt="aman_yadavansi_" /></a> </p>
 
-- 🔭 I’m currently working on **Sofware Development(frontend development**
+- 🔭 I’m currently working on **Sofware Development(frontend development)**
 
 - 🌱 I’m currently learning **Web Development-React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
 
