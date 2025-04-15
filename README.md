@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Sofware Development(frontend development)**
 
-- 🌱 I’m currently learning **Web Development-React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
+- 🌱 I’m currently learning **Web Development-React.js, Router, JavaScript, HTML5, CSS, Python, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanyadav-20](https://github.com/amanyadav-20)
 
-- 💬 Ask me about **React.js,Javascript,HTML,CSS,Java,Python**
+- 💬 Ask me about **React.js, Javascript, HTML, CSS, Java, Python**
 
 - 📫 How to reach me **amanyadav.1954@gmail.com or 7618876964**
 
