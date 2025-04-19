@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center"> A Passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav-20&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav-20" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sofware Development(frontend development)**
 
-- 🌱 I’m currently learning **Web Development-React.js, Router, JavaScript, HTML5, CSS, Python, SQL**
+- 🌱 I’m currently learning **Web Development- React.js, Router, JavaScript, HTML5, CSS, Python, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanyadav-20](https://github.com/amanyadav-20)
 
