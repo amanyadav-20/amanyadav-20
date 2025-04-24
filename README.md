@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development- React.js, Router, JavaScript, HTML5, CSS, Python, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amanyadav-20](linkedin.com/in/amanyadav20)
+- 👨‍💻 All of my projects are available at [https://github.com/amanyadav20](linkedin.com/in/amanyadav20)
 
 - 💬 Ask me about **React.js, Javascript, HTML, CSS, Java, Python**
 
