@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav-20&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav-20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanyadav-20" alt="amanyadav-20" /></a> </p>
 
-- 🔭 I’m currently working on **Sofware Development(frontend development**
+- 🔭 I’m currently working on **Sofware Development(fullstack development**
 
-- 🌱 I’m currently learning **Web Development-React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
+- 🌱 I’m currently learning **Web Development-Node.js,React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanyadav-20](https://github.com/amanyadav-20)
 
-- 💬 Ask me about **React.js,Javascript,HTML,CSS,Java,Python**
+- 💬 Ask me about **Node.js,React.js,Javascript,HTML,CSS,Java,Python**
 
 - 📫 How to reach me **amanyadav.1954@gmail.com or 7618876964**
 
