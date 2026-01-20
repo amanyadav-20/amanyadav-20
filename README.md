@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanyadav-20" alt="amanyadav-20" /></a> </p>
 
-- 🔭 I’m currently working on **Sofware Development(fullstack development**
+- 🔭 I’m currently working on **Sofware Development(fullstack development)**
 
 - 🌱 I’m currently learning **Web Development-Node.js,React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
 
